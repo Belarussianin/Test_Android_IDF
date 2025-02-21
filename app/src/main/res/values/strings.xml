@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test IDF</string>
+    <string name="user_list_title">User List</string>
+    <string name="user_details_title">User Details</string>
+    <string name="user_details_error">Database error</string>
+    <string name="network_refresh_failed_toast_message">Network error</string>
+    <string name="user_address_text"><b>Address:</b></string>
+    <string name="user_address_street_text">"  <b>Street:</b> %1$s"</string>
+    <string name="user_address_suite_text">"  <b>Suite:</b> %1$s"</string>
+    <string name="user_address_city_text">"  <b>City:</b> %1$s"</string>
+    <string name="user_address_zipcode_text">"  <b>Zipcode:</b> %1$s"</string>
+    <string name="user_geo_text">"  <b>Geo:</b>"</string>
+    <string name="user_geo_latitude_text">"    <b>Lat:</b> %1$s"</string>
+    <string name="user_geo_longitude_text">"    <b>Lng:</b> %1$s"</string>
+    <string name="user_company_text"><b>Company:</b></string>
+    <string name="user_company_name_text">"  <b>Name:</b> %1$s"</string>
+    <string name="user_email_text"><b>Email:</b> %1$s</string>
+    <string name="user_phone_text"><b>Phone:</b> %1$s</string>
+    <string name="user_website_text"><b>Website:</b> %1$s</string>
+    <string name="user_name_text"><b>Name:</b> %1$s</string>
+    <string name="user_username_text"><b>Username:</b> %1$s</string>
+    <string name="user_id_text"><b>ID:</b> %1$s</string>
+</resources>

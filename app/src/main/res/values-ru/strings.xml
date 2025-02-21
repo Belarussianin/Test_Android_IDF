@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test IDF</string>
+    <string name="user_list_title">Список пользователей</string>
+    <string name="user_details_title">Сведения о пользователе</string>
+    <string name="user_details_error">Ошибка базы данных</string>
+    <string name="network_refresh_failed_toast_message">Сетевая ошибка</string>
+    <string name="user_address_text"><b>Адрес:</b></string>
+    <string name="user_address_street_text">"  <b>Улица:</b> %1$s"</string>
+    <string name="user_address_suite_text">"  <b>Квартира:</b> %1$s"</string>
+    <string name="user_address_city_text">"  <b>Город:</b> %1$s"</string>
+    <string name="user_address_zipcode_text">"  <b>Почтовый индекс:</b> %1$s"</string>
+    <string name="user_geo_text">"  <b>Местоположение:</b>"</string>
+    <string name="user_geo_latitude_text">"    <b>Широта:</b> %1$s"</string>
+    <string name="user_geo_longitude_text">"    <b>Долгота:</b> %1$s"</string>
+    <string name="user_company_text"><b>Компания:</b></string>
+    <string name="user_company_name_text">"  <b>Название:</b> %1$s"</string>
+    <string name="user_email_text"><b>Почта:</b> %1$s</string>
+    <string name="user_phone_text"><b>Телефон:</b> %1$s</string>
+    <string name="user_website_text"><b>Вебсайт:</b> %1$s</string>
+    <string name="user_name_text"><b>Имя:</b> %1$s</string>
+    <string name="user_username_text"><b>Псевдоним:</b> %1$s</string>
+    <string name="user_id_text"><b>ИД:</b> %1$s</string>
+</resources>
