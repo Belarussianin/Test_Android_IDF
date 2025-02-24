@@ -22,7 +22,7 @@ This Android application fetches a list of users from a public API, displays the
 *   **Hilt:** Dependency Injection library for managing dependencies.
 *   **Room:** Persistence library for local data caching.
 *   **JUnit:** Testing framework
-*   **Mockito:** Mocking framework
+*   **Mockk:** Mocking framework
 
 ## Architecture
 
